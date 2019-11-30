@@ -1,1 +1,3 @@
-# college
+# maven-project
+
+Simple Maven Project
